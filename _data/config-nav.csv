@@ -1,9 +1,13 @@
 display_name,stub,dropdown_parent
-Home,/,
-Browse,/browse.html,
-Subjects,/subjects.html,
-Locations,/locations.html,
-Map,/map.html,
-Timeline,/timeline.html,
-Data,/data.html,
-About,/about.html,
+Home,https://aweymo-ui.github.io/source_cr_free/,
+Introduction,https://aweymo-ui.github.io/source_cr_free/content/intro.html
+Getting Started,https://aweymo-ui.github.io/source_cr_free/content/start/prep.html
+Newspapers,https://aweymo-ui.github.io/source_cr_free/content/start/repository.html
+Additional Considerations,https://aweymo-ui.github.io/source_cr_free/content/start/configure.html
+Major Search Engines,https://aweymo-ui.github.io/source_cr_free/content/docs/pages.html
+How to Use These Resources,https://aweymo-ui.github.io/source_cr_free/content/docs/markdown.html
+Search Resources,/features.html
+Boolean Operators,https://aweymo-ui.github.io/source_cr_free/content/more/example.html
+Keyword and Naming Strategies,https://aweymo-ui.github.io/source_cr_free/content/more/plan.html
+Additional Strategies,https://aweymo-ui.github.io/source_cr_free/content/more/advanced.html
+Closing thoughts,https://aweymo-ui.github.io/source_cr_free/content/resources.html
